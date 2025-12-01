@@ -1,0 +1,68 @@
+
+    body {
+font-family: Arial, sans-serif;
+      background-image: url(bg2.jpg); /* Replace with your image path */
+      background-repeat: no-repeat;
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+.container {
+  width: 100%;
+  max-width: 400px;
+  margin-top: 40px;
+  background:none;
+  backdrop-filter: saturate(190%) blur(15px);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.profile .image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.profile h1 {
+  margin: 1px 0;
+  font-size: 24px;
+  color: #000000;
+}
+
+.links {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 20px;
+  border:;
+}
+
+.links a {
+  display: block;
+  padding: 12px;
+  background-color: rgb(30, 119, 236) ;
+  border-color: black;
+  color: #000000;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.footer{
+  color: #ffffff;
+  
+}
+a:link {
+  text-decoration: none;
+}
+
+a:link, a:visited {
+ 
+  color: rgb(255, 255, 255);
+
