@@ -17,7 +17,7 @@
       <a href="https://www.facebook.com/nerswn.dewry.official" target="_blank">Facebook</a>
       <a href="https://x.com/nerswndewry" target="_blank">Twitter</a>
        <a href="https://t.me/nerswn_dewry_official" target="_blank">Telegram</a>
-        <a href="https://discord.com/invite/uuMcAtfzFu" target="_blank">Discord</a>
+        <a href="https://discord.com/invite/BY68JKfBDn" target="_blank">Discord</a>
         </div>
         
 
@@ -40,3 +40,4 @@
 
 
 </div><script src="script.js"></script></body></html>
+
