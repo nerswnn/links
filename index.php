@@ -25,7 +25,9 @@
       <br>
  <div class="footer">    
          <footer>
-    <h5><p> Copyright © 2024-2025<a href="https://donation-me.github.io/donation-me/"> Nerswn Dewry.</a> All Rights Reserved.</p></h5>
+  
+         <h5><p><a href="https://donate-me.ct.ws"> Copyright © 2024-<script>document.write(new Date().getFullYear())</script> Nerswn Dewry. All Rights Reserved.</a></p></h5>
+       
          </footer>
        
      </div>
@@ -40,4 +42,5 @@
 
 
 </div><script src="script.js"></script></body></html>
+
 
