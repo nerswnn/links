@@ -1,46 +1,29 @@
-<html lang="en"><head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ND</title>
-  <link rel="icon" type="image" href="ndlogo.png">
-  
-<link rel="stylesheet" href="style.css"></head>
-<body>
-  <div class="container">
-    <div class="profile">
-    
-     <center> <h1>Nerswn Dewry</h1> </center>
-    </div>
-    <div class="links">
-      <a href="https://www.instagram.com/nerswn_dewry_official/" target="_blank">Instagram</a>
-      <a href="https://www.youtube.com/@nerswndewryofficial?sub_confirmation=1" target="_blank">YouTube</a>
-      <a href="https://www.facebook.com/nerswn.dewry.official" target="_blank">Facebook</a>
-      <a href="https://x.com/nerswndewry" target="_blank">Twitter</a>
-       <a href="https://t.me/nerswn_dewry_official" target="_blank">Telegram</a>
-        <a href="https://discord.com/invite/BY68JKfBDn" target="_blank">Discord</a>
-        </div>
-        
+<!--Nerswn Dewry-->     <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->   <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
 
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
 
-      <br>
- <div class="footer">    
-         <footer>
-  
-         <h5><p><a href="https://donate-me.ct.ws"> Copyright © 2024-<script>document.write(new Date().getFullYear())</script> Nerswn Dewry. All Rights Reserved.</a></p></h5>
-       
-         </footer>
-       
-     </div>
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
 
- 
-
-
-
- 
-
-
-
-
-</div><script src="script.js"></script></body></html>
-
-
+<!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->  <!--https://nerswndewry.ct.ws-->
+<!--Nerswn Dewry-->   <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   <!--Nerswn Dewry-->   
