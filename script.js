@@ -16,4 +16,13 @@
 
 
 
- 
+
+ // Simple click effect (optional)
+document.querySelectorAll(".links a").forEach(link => {
+  link.addEventListener("click", () => {
+    console.log("Link clicked:", link.innerText);
+  });
+});
+
+
+
