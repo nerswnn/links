@@ -1,68 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
 
-    body {
-font-family: Arial, sans-serif;
-      background-image: url(bg2.jpg); /* Replace with your image path */
-      background-repeat: no-repeat;
-      background-size: cover;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-    }
+body {
+  background: linear-gradient(135deg, #000428, #004e92);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+/* Container */
 .container {
   width: 100%;
   max-width: 400px;
-  margin-top: 40px;
-  background:none;
-  backdrop-filter: saturate(190%) blur(15px);
   padding: 20px;
-  border-radius: 12px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
-  text-align: center;
+  margin-top: 40px;
 }
 
-.profile .image {
+/* Profile */
+.profile {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 30px;
+  
+}
+
+.profile img {
   width: 100px;
   height: 100px;
   border-radius: 50%;
+  border: 3px solid #fff;
 }
 
-.profile h1 {
-  margin: 1px 0;
-  font-size: 24px;
-  color: #000000;
+.profile h2 {
+  margin-top: 10px;
 }
 
-.links {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  margin-top: 20px;
-  border:;
+.profile p {
+  opacity: 0.8;
 }
 
+/* Links */
 .links a {
+  position: relative;
   display: block;
-  padding: 12px;
-  background-color: rgb(30, 119, 236) ;
-  border-color: black;
-  color: #000000;
-  border-radius: 8px;
+  background: #ffffff;
+  color: #000;
   text-decoration: none;
+  padding: 14px 50px 14px 20px;
+  margin: 12px 0;
+  border-radius: 30px;
   font-weight: bold;
-  transition: background 0.3s ease;
+  transition: 0.3s;
 }
 
-.footer{
-  color: #ffffff;
+.links a i {
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+}
+
+.links a:hover {
+  background: #00ffcc;
+  color: #000
+}
+
+
+/* Footer */
+.footer {
+  margin-top: auto;
+  padding: 1px;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  text-transform: none;
+  font-weight: bold;
   
 }
-a:link {
-  text-decoration: none;
-}
-
-a:link, a:visited {
- 
-  color: rgb(255, 255, 255);
-
